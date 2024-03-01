@@ -1,3 +1,5 @@
+## FPGA Basics
+
 ### What is an FPGA?
 
 An FPGA (Field Programmable Gate Array) is a semiconductor device that can be programmed after manufacturing to perform a specific function. It consists of an array of logic blocks, programmable interconnects, and input/output blocks. FPGAs are used in a wide range of applications, from high-speed networking to image processing and signal processing.
