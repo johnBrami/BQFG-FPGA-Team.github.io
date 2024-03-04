@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: True
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -22,6 +23,8 @@ layout: default
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
+  {% if page.comments %}
+  {% endif %} 
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
