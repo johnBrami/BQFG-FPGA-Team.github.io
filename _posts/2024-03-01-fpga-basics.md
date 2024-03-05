@@ -2,7 +2,7 @@
 layout: post
 title:  "FPGA Basics"
 date:   2024-03-01 00:00:00 -0000
-categories: fpga
+categories: basics
 katex: True
 excerpt_separator: <!--more-->
 author: "Arnav" 
