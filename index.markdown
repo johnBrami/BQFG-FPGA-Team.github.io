@@ -7,7 +7,7 @@ layout: home
 
 # Welcome to BQFG FPGA Tutorial
 
-Welcome to the FPGA tutorial section by BQFG (Boiler Quant Finance Group) at Purdue University. Here, we delve into the world of Field-Programmable Gate Arrays (FPGAs) and their application in quantitative finance projects. Whether you're a novice or an experienced enthusiast, our tutorials aim to equip you with the necessary knowledge to explore FPGA-based solutions in quantitative finance.
+Welcome to the FPGA tutorial section by BQFG (Boiler Quant Finance Group) at Purdue University. Here, we delve into the world of Field-Programmable Gate Arrays (FPGAs) and their application in quantitative finance projects. Whether you're a beginner or an experienced enthusiast, our tutorials aim to equip you with the necessary knowledge to explore FPGA-based solutions in quantitative finance.
 
 ## Navigation
 
