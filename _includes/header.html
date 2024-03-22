@@ -2,7 +2,7 @@
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign post_pages = site.pages | where_exp: "item", "item.path contains '../_posts/'" -%}
+    {%- assign post_pages = site.pages | where_exp: "item", "item.path contains '_posts'" -%}
     {%- assign page_paths = site.header_pages | default: default_paths | concat: post_pages -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
